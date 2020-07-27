@@ -2,7 +2,7 @@
 - The CPU is NXP LPC1769 ARM® Cortex®-M3 120MHZ
 - Motherboard has 4KB EEPROM
 - Support 2 way PWM FANs and 2 way Dc12/24 out interface
-- Support dule Z interface
+- Support dual Z interface
 - More reserved IO on the board
 
 ## Related tutorials and Notice
