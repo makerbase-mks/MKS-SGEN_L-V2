@@ -6,7 +6,7 @@
 - More reserved IO on the board
 
 ## Related tutorials and Notice
-- User Manual. 
+- User Manual.[click here](https://github.com/makerbase-mks/MKS-SGEN_L-V2/wiki)
 - Welcome to follow us on Facebook to learn about the company's latest developments.[click here](https://www.facebook.com/Makerbase.mks/)
 
 ## Firmware description
