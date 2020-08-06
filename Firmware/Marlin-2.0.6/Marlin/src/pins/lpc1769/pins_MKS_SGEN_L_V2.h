@@ -102,6 +102,8 @@
   #define Z_MIN_PROBE_PIN                  P1_24
 #endif
 
+#define FIL_RUNOUT_PIN                     P1_24           
+
 //
 // Steppers
 //
