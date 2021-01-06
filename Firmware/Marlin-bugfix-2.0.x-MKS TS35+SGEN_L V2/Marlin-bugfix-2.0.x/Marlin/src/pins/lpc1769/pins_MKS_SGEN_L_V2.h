@@ -275,7 +275,7 @@
     #define LCD_PINS_ENABLE                -1
     #define LCD_PINS_RS                    -1
 
-    #define TFT_BUFFER_SIZE                2400
+    #define TFT_BUFFER_SIZE                1200
 
     // Emulated DOGM have xpt calibration values independent of display resolution
     #if ENABLED(SPI_GRAPHICAL_TFT) || ENABLED(TFT_480x320_SPI)
